@@ -1,2 +1,124 @@
 # yarro.ru
 Site YARRO
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>О нас</title>
+    <meta name="description"
+          content="О нас"/>
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:title" content="О нас" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="https://s.tb.ru/images/publishPreview/preview.jpg" />
+
+    <meta name="twitter:title" content="О нас" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image" content="https://s.tb.ru/images/publishPreview/preview.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+
+
+        <link rel="preconnect" href="https://259506.selcdn.ru" />
+
+        <link rel="stylesheet" href="../assets/styles/styles-core.css" />
+
+        <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/40cc9b2b-1627-4622-9e36-db7f91ede968-3174592.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/40cc9b2b-1627-4622-9e36-db7f91ede968-3174591.png">
+        <link rel="icon" type="image/png" sizes="120x120" href="../assets/img/40cc9b2b-1627-4622-9e36-db7f91ede968-3174593.png">
+        <link rel="apple-touch-icon" type="image/png" sizes="120x120" href="../assets/img/40cc9b2b-1627-4622-9e36-db7f91ede968-3174593.png">
+        <link rel="icon" type="image/png" sizes="180x180" href="../assets/img/40cc9b2b-1627-4622-9e36-db7f91ede968-3174594.png">
+        <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="../assets/img/40cc9b2b-1627-4622-9e36-db7f91ede968-3174594.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family&#x3D;Montserrat:400,700&amp;subset&#x3D;all&amp;display&#x3D;swap">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family&#x3D;Roboto&amp;subset&#x3D;all&amp;display&#x3D;swap">
+
+
+</head>
+
+<body class="sb-body sb-body_with-footer  font-montserrat-roboto sb-content-size_m sb-buttons-border_round">
+<div class="site-wrapper" tabindex="0">
+               <section data-type="header" id="header-2" class="s-header-type-3 sb-fixed-block sb-text-dark"><link
+                            id="header-type-3"
+                            rel="stylesheet"
+                            href="../assets/styles/header-type-3.css"
+                        /><div class=" sb-background" style="background: #ffffff;"></div><div class="sb-container"><div class="s-header-type-3__wrapper js-wrapper   s-header-type-3__wrapper_right-align-links  ">  <div class="s-header-type-3__burger js-burger  s-header-type-3__mark-links  "><span class="s-header-type-3__burger-line"></span></div>   <div class="s-header-type-3__logo sb-align-left sb-font-p2"><b></b>Y A R R O   <font style="color: #89f1bd;">S T U D i O</font></div>   <div class="s-header-type-3__menu-wrapper js-menu "><nav class="s-header-type-3__menu">  <div class=" sb-background sb-background" style="background: #ffffff;"></div>   <ul class="s-header-type-3__link-wrapper">  <li class="s-header-type-3__link-item sb-submenu-link ">   <a href="https://yarro.ru" class="s-header-type-3__link sb-font-p3"    >   Главная   </a>    </li>  <li class="s-header-type-3__link-item sb-submenu-link ">   <a href="https://yarro.ru/about" class="s-header-type-3__link sb-font-p3"    >   О нас   </a>    </li>  <li class="s-header-type-3__link-item sb-submenu-link ">   <a href="https://yarro.ru/contacts" class="s-header-type-3__link sb-font-p3"    >   Контакты   </a>    </li>  <li class="s-header-type-3__link-item sb-submenu-link ">   <a href="https://yarro.ru/privacy" class="s-header-type-3__link sb-font-p3"    >   Политика   </a>    </li>  </ul>   </nav></div>   </div></div> </section>              <section data-type="faq" id="faq" class="s-faq-type-1 sb-text-dark sb-padding-top_l sb-padding-bottom_l"><link
+                            id="faq-type-1"
+                            rel="stylesheet"
+                            href="../assets/styles/faq-type-1.css"
+                        /><div class=" sb-background" style="background: #FFFFFF;"></div><div class="sb-container sb-m-clear-bottom">  <div class="sb-row sb-m-5-bottom"><div class="sb-col_lg-10 sb-col_md-12 sb-col_sm-12 sb-col_xs-12"><h2 class="sb-font-h2 sb-font-title">О нас</h2></div></div>    <div class="s-faq-type-1__question sb-m-6-bottom sb-m-clear-bottom"><h5 class="s-faq-type-1__ask sb-align-left sb-font-h5 sb-font-title sb-m-21-bottom">Начало</h5>  <div class="s-faq-type-1__answer"><div class="sb-text-opacity sb-align-left sb-font-p3">Студия YARRO была основана летом 2018 года в Магнитогорске, небольшом российском городе Челябинской области. <div>Официальной датой открытия мы считаем 18 августа 2018 г.</div></div></div>  </div>    <div class="s-faq-type-1__question sb-m-6-bottom sb-m-clear-bottom"><h5 class="s-faq-type-1__ask sb-align-left sb-font-h5 sb-font-title sb-m-21-bottom">Направление</h5>  <div class="s-faq-type-1__answer"><div class="sb-text-opacity sb-align-left sb-font-p3">YARRO Studio - инди-разработчик игр и приложений для ПК и мобильных устройств. В основном программное обеспечение создается для операционных систем Android и Windows. Мы осуществляем полный цикл разработки, включая UI /UX дизайн, концепцию, программирование, прототипирование, тестирование и поддержку.</div></div>  </div>    <div class="s-faq-type-1__question sb-m-6-bottom sb-m-clear-bottom"><h5 class="s-faq-type-1__ask sb-align-left sb-font-h5 sb-font-title sb-m-21-bottom">Наше видение</h5>  <div class="s-faq-type-1__answer"><div class="sb-text-opacity sb-align-left sb-font-p3">У нас есть свое видение того, какой должна быть игра или приложение. В конечном продукте мы хотим видеть реализацию собственной идеи. Поэтому YARRO Studio запускает и разрабатывает только собственные решения.</div></div>  </div>    <div class="s-faq-type-1__question sb-m-6-bottom sb-m-clear-bottom"><h5 class="s-faq-type-1__ask sb-align-left sb-font-h5 sb-font-title sb-m-21-bottom">Мотивация</h5>  <div class="s-faq-type-1__answer"><div class="sb-text-opacity sb-align-left sb-font-p3">Нами движет желание создавать и реализовывать наши идеи. Мы любим экспериментировать и создавать новые концепции. Делаем то, что нам действительно нравится и от чего мы получаем удовольствие.</div></div>  </div>   </div> </section>                 <section data-type="footer-customer" id="footer-customer-2" class="s-footer-customer-type-2 sb-text-dark sb-padding-top_l sb-padding-bottom_l"><link
+                            id="footer-customer-type-2"
+                            rel="stylesheet"
+                            href="../assets/styles/footer-customer-type-2.css"
+                        /><div class=" sb-background" style="background: #fff;"></div><div class="sb-container"><div class="sb-row sb-m-clear-top">  <div class=" sb-col_lg-6 sb-col_md-6  sb-col_sm-12 sb-col_xs-12"><div class="s-footer-customer-type-2__info sb-m-clear-bottom"><h2 class="s-footer-customer-type-2__title sb-font-h5 sb-font-title sb-m-21-bottom">YARRO STUDiO</h2> <div class="s-footer-customer-type-2__description sb-font-p3 sb-text-opacity">© 2018 – 2022 Y A R R O</div></div></div>   <div class=" sb-col_lg-6 sb-col_md-6  sb-col_sm-12 sb-col_xs-12 sb-m-7-top s-footer-customer-type-2__column"><div class="s-footer-customer-type-2__wrapper"><nav class="s-footer-customer-type-2__socials-list">   <a class="s-footer-customer-type-2__item sb-color-border" href="https://vk.com/yarrostudio" target="_blank" aria-label="  Вконтакте  ">  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="social_ic-vk_x24"><path id="ic-vk" fill-rule="evenodd" clip-rule="evenodd" d="M17.7703 13.3585C18.301 13.9307 18.8612 14.4692 19.3372 15.0992C19.5475 15.3791 19.7466 15.668 19.8989 15.9929C20.1147 16.4548 19.9192 16.963 19.5442 16.9906L17.2133 16.9894C16.6121 17.0445 16.1325 16.7772 15.7293 16.3233C15.4066 15.9602 15.1077 15.5739 14.7974 15.1986C14.6702 15.0452 14.537 14.9008 14.3779 14.7868C14.0597 14.5586 13.7835 14.6285 13.6017 14.995C13.4165 15.3678 13.3745 15.7806 13.3563 16.1961C13.3313 16.8023 13.1654 16.9616 12.6141 16.9894C11.4358 17.0507 10.3175 16.8539 9.2787 16.1974C8.36284 15.6187 7.65263 14.8017 7.03447 13.8767C5.83089 12.0757 4.90919 10.0967 4.08081 8.06218C3.89434 7.60381 4.03071 7.35776 4.48864 7.34905C5.24905 7.33273 6.00936 7.33389 6.77067 7.34789C7.07973 7.35288 7.28433 7.54865 7.40366 7.87111C7.81507 8.98833 8.31847 10.0513 8.95036 11.0365C9.11863 11.2988 9.29022 11.5611 9.53456 11.7458C9.80487 11.9502 10.0107 11.8824 10.1378 11.5499C10.2185 11.339 10.2539 11.1119 10.2721 10.886C10.3323 10.109 10.3402 9.33337 10.2346 8.5591C10.1697 8.07588 9.92326 7.76306 9.48667 7.67162C9.26388 7.625 9.29705 7.53344 9.40492 7.393C9.59228 7.15078 9.76849 7 10.1198 7H12.7541C13.1688 7.0904 13.2609 7.29616 13.3177 7.75703L13.3199 10.9887C13.3154 11.1672 13.4006 11.6966 13.6916 11.8147C13.9245 11.8987 14.078 11.693 14.2177 11.5299C14.8484 10.7906 15.2986 9.91686 15.7007 9.01214C15.8792 8.61432 16.0327 8.20117 16.1814 7.78838C16.2916 7.48206 16.4645 7.33134 16.7769 7.33802L19.3122 7.34051C19.3874 7.34051 19.4635 7.34173 19.5363 7.35549C19.9635 7.4359 20.0806 7.63888 19.9486 8.09963C19.7407 8.82252 19.3362 9.42493 18.9407 10.0301C18.5179 10.6763 18.0657 11.3003 17.6464 11.9502C17.2611 12.5438 17.2917 12.843 17.7703 13.3585V13.3585Z" fill="currentColor"/></g></svg>                 </a>    <a class="s-footer-customer-type-2__item sb-color-border" href="https://vk.com/video/@yarrostudio" target="_blank" aria-label="  Youtube ">          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="social_ic-youtube_x24"><path id="ic-youtube" fill-rule="evenodd" clip-rule="evenodd" d="M19.3764 7.03011C18.7988 6.29845 17.7325 6 15.6961 6H8.30379C6.22075 6 5.13636 6.3177 4.56098 7.09667C4 7.85616 4 8.97522 4 10.524V13.476C4 16.4766 4.6656 18 8.30379 18H15.6961C17.4621 18 18.4407 17.7366 19.0738 17.0909C19.723 16.4288 20 15.3477 20 13.476V10.524C20 8.89068 19.9566 7.76502 19.3764 7.03011ZM14.2721 12.4076L10.9153 14.2772C10.8402 14.319 10.7581 14.3398 10.6762 14.3398C10.5834 14.3398 10.4908 14.3131 10.4088 14.2602C10.2543 14.1605 10.1601 13.9821 10.1601 13.7897V10.0624C10.1601 9.87036 10.2541 9.69214 10.4082 9.59237C10.5624 9.49259 10.7541 9.48577 10.9141 9.57432L14.2709 11.4319C14.4417 11.5264 14.5489 11.7143 14.5492 11.9193C14.5494 12.1245 14.4426 12.3126 14.2721 12.4076Z" fill="currentColor"/></g></svg>         </a>    <a class="s-footer-customer-type-2__item sb-color-border" href="mailto:yarrobox@vk.com" aria-label="  Электронная почта ">              <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="social_ic-email_x16"><path d="M7.21596 5.91784C7.63375 6.19676 8.36681 6.19679 8.78469 5.91781C8.78475 5.91777 8.78485 5.91771 8.78491 5.91768L15.9057 1.16376C15.6722 0.487312 15.0302 0 14.2763 0H1.72423C0.970317 0 0.328343 0.487312 0.0947475 1.16376L7.21574 5.91771C7.21584 5.91777 7.2159 5.91777 7.21596 5.91784Z" fill="currentColor"/><path d="M9.30464 6.69873C9.30454 6.6988 9.30448 6.69886 9.30442 6.69889C8.93873 6.94302 8.46929 7.06509 8 7.06509C7.53062 7.06509 7.06137 6.94305 6.69565 6.69886C6.69558 6.69883 6.69555 6.6988 6.69549 6.69877L0 2.22888V10.2737C0 11.2256 0.77335 12 1.72395 12H14.2761C15.2267 12 16 11.2256 16 10.2737V2.22888L9.30464 6.69873Z" fill="currentColor"/></g></svg>     </a>   </nav></div></div>  </div></div> </section>    </div>
+
+<template id="popups-stash">
+</template>
+
+<template id="popups-images-stash">
+</template>
+
+<script>
+    window.tbConfig={"inFrame":false,"enableLazyLoading":false,"enableJsLazyLoading":false,"enableDynamicGoods":true,"isPreviewMode":false,"hasPromocodes":false,"yandexMapsApiKey":"a9eba83c-b342-4dfe-ab11-2c7cbd6839cb","cartHash":"U2FsdGVkX1+861Dd3n00klfael2/HMkBHBkMOprFk7C+ZttWSVn9nXuuxgSGqxdzD/1Cz1xHunktbhivpP1J+qi10aY0vS21YFlkLYY1Obd3HngnXVsItVpn0qE44biF","enableSitesCheckoutIntegration":false,"yaMetricsCounter":"89565431","googleWebPropertyId":"UA-131205429-3","staticPath":"https://e26f86a1-a349-40e0-9864-90f0278f7cc5.selcdn.net/tb/0.1.497"};
+    window.tbConfig.isExported=true;window.tbConfig.exportedApiUrl='https://a.https://yarro.ru';
+    window.tbConfig.apiUrl=!window.tbConfig.isExported ? '' : window.tbConfig.exportedApiUrl;
+    window.tbConfig.isModern='noModule'in HTMLScriptElement.prototype;
+    var n,o="chrome"in window,e="InstallTrigger"in window;function t(n){var o=document.createElement("script");return o.src="".concat(window.tbConfig.staticPath,"/js/").concat(n),window.tbConfig.isModern&&(o.type="module",o.src=o.src.replace(".js",".modern.js")),o.defer=!0,o}function d(n){var o=t(n);document.head.appendChild(o)}window.tbConfig.enableLazyLoading&&d("lazy-load.js"),"attachShadow"in Element.prototype||d("lit-polyfill-support.js"),d("webcomponents-loader.js"),o||e||d("smoothscroll.js"),n=t("front.js"),document.addEventListener("DOMContentLoaded",(function(){document.head.appendChild(n)}));
+</script>
+
+    <link rel="stylesheet" href="../assets/styles/size-m.css" />
+    <link rel="stylesheet" href="../assets/styles/popups.css" />
+    <link rel="stylesheet" href="../assets/styles/styles-helpers.css" />
+
+
+    <section data-type="footer" class="s-footer"><link
+                    id="footer"
+                    rel="stylesheet"
+                    href="../assets/styles/footer.css"
+                /> <a href="https://www.tinkoff.ru/business/website-builder?utm_source&#x3D;sites.footer&amp;utm_medium&#x3D;ref&amp;utm_campaign&#x3D;sites.main" class="s-footer__link">Конструктор сайтов&nbsp;от&nbsp; <img class="s-footer__logo" alt="Тинькофф" src="https://e26f86a1-a349-40e0-9864-90f0278f7cc5.selcdn.net/tb/0.1.497/images/logos/tinkoff-logo-white.svg"> </a> </section>      <section id="yandex-metrica-script" data-type="script"><div class="sb-container sb-container_no-position"> 
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){
+            m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+        })(window, document,'script','//mc.yandex.ru/metrika/tag.js', 'ym');
+    
+        ym(89565431, 'init', {accurateTrackBounce:true, trackLinks:true, webvisor:true, clickmap:true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/89565431" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+    
+     </div></section>        <section id="google-analytics-script" data-type="script"><div class="sb-container sb-container_no-position"> 
+        <!-- Google Analytics -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131205429-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+    
+            gtag('config', 'UA-131205429-3');
+        </script>
+        <!-- End Google Analytics -->
+         </div></section>  
+</body>
+</html>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
